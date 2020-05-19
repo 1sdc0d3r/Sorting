@@ -103,4 +103,4 @@ Look into Counting Sort.
 
 ### You Might be Surprised at What Passes for a Sorting Algorithm
 
-- Explore Bogo Sort and summarize how it works in a couple of sentences.
+- Explore BOGO Sort and summarize how it works in a couple of sentences.
